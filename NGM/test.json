@@ -1,0 +1,367 @@
+[
+  {
+    "clientId": "C101",
+    "currency": "INR",
+    "funds": [
+      {
+        "fundCode": "FUND_A",
+        "amount": 1000000,
+        "holdings": {
+          "INFY": 0.30,
+          "HDFCBANK": 0.50,
+          "ITC": 0.20
+        },
+        "sectors": {
+          "IT": 0.30,
+          "Banking": 0.50,
+          "FMCG": 0.20
+        }
+      },
+      {
+        "fundCode": "FUND_B",
+        "amount": 1000000,
+        "holdings": {
+          "INFY": 0.40,
+          "RELIANCE": 0.30,
+          "HDFCBANK": 0.30
+        },
+        "sectors": {
+          "IT": 0.40,
+          "Energy": 0.30,
+          "Banking": 0.30
+        }
+      },
+      {
+        "fundCode": "FUND_C",
+        "amount": 500000,
+        "holdings": {
+          "TCS": 0.50,
+          "INFY": 0.30,
+          "ITC": 0.20
+        },
+        "sectors": {
+          "IT": 0.80,
+          "FMCG": 0.20
+        }
+      }
+    ]
+  },
+  {
+    "clientId": "C102",
+    "currency": "USD",
+    "funds": [
+      {
+        "fundCode": "FUND_D",
+        "amount": 750000,
+        "holdings": {
+          "AAPL": 0.45,
+          "MSFT": 0.35,
+          "GOOGL": 0.20
+        },
+        "sectors": {
+          "Technology": 0.80,
+          "Communication Services": 0.20
+        }
+      },
+      {
+        "fundCode": "FUND_E",
+        "amount": 1250000,
+        "holdings": {
+          "AMZN": 0.40,
+          "TSLA": 0.30,
+          "NVDA": 0.30
+        },
+        "sectors": {
+          "Consumer Discretionary": 0.40,
+          "Automotive": 0.30,
+          "Semiconductors": 0.30
+        }
+      }
+    ]
+  },
+  {
+    "clientId": "C103",
+    "currency": "EUR",
+    "funds": [
+      {
+        "fundCode": "FUND_F",
+        "amount": 600000,
+        "holdings": {
+          "SAP": 0.40,
+          "BMW": 0.35,
+          "SIEMENS": 0.25
+        },
+        "sectors": {
+          "Software": 0.40,
+          "Automotive": 0.35,
+          "Industrial": 0.25
+        }
+      },
+      {
+        "fundCode": "FUND_G",
+        "amount": 900000,
+        "holdings": {
+          "LVMH": 0.30,
+          "NESTLE": 0.30,
+          "ROCHE": 0.40
+        },
+        "sectors": {
+          "Luxury Goods": 0.30,
+          "Food": 0.30,
+          "Healthcare": 0.40
+        }
+      }
+    ]
+  },
+  {
+    "clientId": "C104",
+    "currency": "INR",
+    "funds": [
+      {
+        "fundCode": "FUND_H",
+        "amount": 800000,
+        "holdings": {
+          "RELIANCE": 0.45,
+          "TCS": 0.35,
+          "HDFCBANK": 0.20
+        },
+        "sectors": {
+          "Energy": 0.45,
+          "IT": 0.35,
+          "Banking": 0.20
+        }
+      },
+      {
+        "fundCode": "FUND_I",
+        "amount": 700000,
+        "holdings": {
+          "INFY": 0.50,
+          "HINDUNILVR": 0.30,
+          "ITC": 0.20
+        },
+        "sectors": {
+          "IT": 0.50,
+          "FMCG": 0.30,
+          "Others": 0.20
+        }
+      }
+    ]
+  },
+  {
+    "clientId": "C105",
+    "currency": "GBP",
+    "funds": [
+      {
+        "fundCode": "FUND_J",
+        "amount": 1200000,
+        "holdings": {
+          "HSBC": 0.40,
+          "BP": 0.30,
+          "RBS": 0.30
+        },
+        "sectors": {
+          "Banking": 0.40,
+          "Energy": 0.30,
+          "Financial Services": 0.30
+        }
+      },
+      {
+        "fundCode": "FUND_K",
+        "amount": 500000,
+        "holdings": {
+          "VOD": 0.55,
+          "BT": 0.25,
+          "DISH": 0.20
+        },
+        "sectors": {
+          "Telecommunications": 0.55,
+          "Media": 0.45
+        }
+      }
+    ]
+  },
+  {
+    "clientId": "C106",
+    "currency": "JPY",
+    "funds": [
+      {
+        "fundCode": "FUND_L",
+        "amount": 950000,
+        "holdings": {
+          "TOYOTA": 0.40,
+          "SONY": 0.35,
+          "MITSUBISHI": 0.25
+        },
+        "sectors": {
+          "Automotive": 0.40,
+          "Electronics": 0.35,
+          "Industrial": 0.25
+        }
+      },
+      {
+        "fundCode": "FUND_M",
+        "amount": 650000,
+        "holdings": {
+          "KEYENCE": 0.45,
+          "NTT": 0.35,
+          "MUFG": 0.20
+        },
+        "sectors": {
+          "Technology": 0.45,
+          "Telecommunications": 0.35,
+          "Banking": 0.20
+        }
+      }
+    ]
+  },
+  {
+    "clientId": "C107",
+    "currency": "CAD",
+    "funds": [
+      {
+        "fundCode": "FUND_N",
+        "amount": 780000,
+        "holdings": {
+          "SHOP": 0.40,
+          "ENBR": 0.30,
+          "BCE": 0.30
+        },
+        "sectors": {
+          "Retail": 0.40,
+          "Energy": 0.30,
+          "Telecommunications": 0.30
+        }
+      },
+      {
+        "fundCode": "FUND_O",
+        "amount": 520000,
+        "holdings": {
+          "BNS": 0.50,
+          "TD": 0.30,
+          "RBC": 0.20
+        },
+        "sectors": {
+          "Banking": 0.50,
+          "Financial Services": 0.30,
+          "Insurance": 0.20
+        }
+      }
+    ]
+  },
+  {
+    "clientId": "C108",
+    "currency": "AUD",
+    "funds": [
+      {
+        "fundCode": "FUND_P",
+        "amount": 860000,
+        "holdings": {
+          "BHP": 0.45,
+          "CBA": 0.35,
+          "WES": 0.20
+        },
+        "sectors": {
+          "Materials": 0.45,
+          "Banking": 0.35,
+          "Utilities": 0.20
+        }
+      },
+      {
+        "fundCode": "FUND_Q",
+        "amount": 640000,
+        "holdings": {
+          "CSL": 0.55,
+          "WES": 0.25,
+          "COH": 0.20
+        },
+        "sectors": {
+          "Healthcare": 0.55,
+          "Utilities": 0.30,
+          "Consumer Discretionary": 0.15
+        }
+      }
+    ]
+  },
+  {
+    "clientId": "C109",
+    "currency": "CHF",
+    "funds": [
+      {
+        "fundCode": "FUND_R",
+        "amount": 1100000,
+        "holdings": {
+          "NOVARTIS": 0.50,
+          "NESN": 0.30,
+          "ROG": 0.20
+        },
+        "sectors": {
+          "Healthcare": 0.50,
+          "Consumer Staples": 0.30,
+          "Industrial": 0.20
+        }
+      },
+      {
+        "fundCode": "FUND_S",
+        "amount": 400000,
+        "holdings": {
+          "UBS": 0.55,
+          "CS": 0.25,
+          "ZURN": 0.20
+        },
+        "sectors": {
+          "Banking": 0.55,
+          "Financial Services": 0.25,
+          "Industrial": 0.20
+        }
+      }
+    ]
+  },
+  {
+    "clientId": "C110",
+    "currency": "INR",
+    "funds": [
+      {
+        "fundCode": "FUND_T",
+        "amount": 950000,
+        "holdings": {
+          "MARUTI": 0.40,
+          "HINDALCO": 0.35,
+          "DRREDDY": 0.25
+        },
+        "sectors": {
+          "Automotive": 0.40,
+          "Metals": 0.35,
+          "Healthcare": 0.25
+        }
+      },
+      {
+        "fundCode": "FUND_U",
+        "amount": 850000,
+        "holdings": {
+          "HDFCBANK": 0.45,
+          "ICICIBANK": 0.30,
+          "SBIN": 0.25
+        },
+        "sectors": {
+          "Banking": 0.45,
+          "Financial Services": 0.30,
+          "Insurance": 0.25
+        }
+      },
+      {
+        "fundCode": "FUND_V",
+        "amount": 400000,
+        "holdings": {
+          "TATAMOTORS": 0.50,
+          "ADANIPORTS": 0.30,
+          "BHARTI": 0.20
+        },
+        "sectors": {
+          "Automotive": 0.50,
+          "Logistics": 0.30,
+          "Telecommunications": 0.20
+        }
+      }
+    ]
+  }
+]

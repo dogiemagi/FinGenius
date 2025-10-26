@@ -1,0 +1,1601 @@
+[
+  {
+    "stockSymbol": "STK001",
+    "parameters": {
+      "priceEarningsRatio": 35.2,
+      "earningsPerShare": 5.6,
+      "dividendYield": 0.65,
+      "marketCap": 2300000000000.0,
+      "debtToEquityRatio": 1.2,
+      "returnreturnOnEquity": 0.15,
+      "returnOnAssets": 0.08,
+      "currentRatio": 1.5,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 3.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK002",
+    "parameters": {
+      "priceEarningsRatio": 32.4,
+      "earningsPerShare": 9.2,
+      "dividendYield": 0.89,
+      "marketCap": 2100000000000.0,
+      "debtToEquityRatio": 0.8,
+      "returnreturnOnEquity": 0.38,
+      "returnOnAssets": 0.13,
+      "currentRatio": 2.3,
+      "quickRatio": 2.0,
+      "bookValuePerShare": 23.1,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK003",
+    "parameters": {
+      "priceEarningsRatio": 28.7,
+      "earningsPerShare": 6.4,
+      "dividendYield": 0.0,
+      "marketCap": 1900000000000.0,
+      "debtToEquityRatio": 0.3,
+      "returnreturnOnEquity": 0.18,
+      "returnOnAssets": 0.1,
+      "currentRatio": 3.7,
+      "quickRatio": 3.5,
+      "bookValuePerShare": 12.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK004",
+    "parameters": {
+      "priceEarningsRatio": 96.1,
+      "earningsPerShare": 0.7,
+      "dividendYield": 0.0,
+      "marketCap": 1400000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.22,
+      "returnOnAssets": 0.06,
+      "currentRatio": 1.1,
+      "quickRatio": 0.9,
+      "bookValuePerShare": 67.3,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK005",
+    "parameters": {
+      "priceEarningsRatio": 73.5,
+      "earningsPerShare": 3.2,
+      "dividendYield": 0.0,
+      "marketCap": 820000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.2,
+      "returnOnAssets": 0.04,
+      "currentRatio": 1.6,
+      "quickRatio": 1.4,
+      "bookValuePerShare": 21.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK006",
+    "parameters": {
+      "priceEarningsRatio": 61.8,
+      "earningsPerShare": 8.7,
+      "dividendYield": 0.07,
+      "marketCap": 600000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.42,
+      "returnOnAssets": 0.0,
+      "currentRatio": 6.0,
+      "quickRatio": 5.7,
+      "bookValuePerShare": 37.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK007",
+    "parameters": {
+      "priceEarningsRatio": 11.4,
+      "earningsPerShare": 12.5,
+      "dividendYield": 2.98,
+      "marketCap": 430000000000.0,
+      "debtToEquityRatio": 2.1,
+      "returnreturnOnEquity": 0.12,
+      "returnOnAssets": 0.01,
+      "currentRatio": 1.1,
+      "quickRatio": 0.9,
+      "bookValuePerShare": 89.4,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK008",
+    "parameters": {
+      "priceEarningsRatio": 34.0,
+      "earningsPerShare": 6.1,
+      "dividendYield": 0.59,
+      "marketCap": 500000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.33,
+      "returnOnAssets": 0.15,
+      "currentRatio": 3.3,
+      "quickRatio": 3.1,
+      "bookValuePerShare": 222.6,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK009",
+    "parameters": {
+      "priceEarningsRatio": 42.2,
+      "earningsPerShare": 8.5,
+      "dividendYield": 0.55,
+      "marketCap": 410000000000.0,
+      "debtToEquityRatio": 2.3,
+      "returnreturnOnEquity": 0.2,
+      "returnOnAssets": 0.07,
+      "currentRatio": 1.6,
+      "quickRatio": 1.5,
+      "bookValuePerShare": 89.1,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK010",
+    "parameters": {
+      "priceEarningsRatio": 26.6,
+      "earningsPerShare": 21.0,
+      "dividendYield": 0.24,
+      "marketCap": 520000000000.0,
+      "debtToEquityRatio": 1.5,
+      "returnreturnOnEquity": 0.29,
+      "returnOnAssets": 0.1,
+      "currentRatio": 2.1,
+      "quickRatio": 1.9,
+      "bookValuePerShare": 146.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK011",
+    "parameters": {
+      "priceEarningsRatio": 24.9,
+      "earningsPerShare": 5.7,
+      "dividendYield": 2.41,
+      "marketCap": 350000000000.0,
+      "debtToEquityRatio": 0.7,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.09,
+      "currentRatio": 0.9,
+      "quickRatio": 0.8,
+      "bookValuePerShare": 31.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK012",
+    "parameters": {
+      "priceEarningsRatio": 20.5,
+      "earningsPerShare": 3.2,
+      "dividendYield": 3.09,
+      "marketCap": 270000000000.0,
+      "debtToEquityRatio": 1.4,
+      "returnreturnOnEquity": 0.31,
+      "returnOnAssets": 0.07,
+      "currentRatio": 1.3,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 19.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK013",
+    "parameters": {
+      "priceEarningsRatio": 27.3,
+      "earningsPerShare": 6.2,
+      "dividendYield": 2.74,
+      "marketCap": 290000000000.0,
+      "debtToEquityRatio": 0.6,
+      "returnreturnOnEquity": 0.4,
+      "returnOnAssets": 0.11,
+      "currentRatio": 1.5,
+      "quickRatio": 1.4,
+      "bookValuePerShare": 16.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK014",
+    "parameters": {
+      "priceEarningsRatio": 18.2,
+      "earningsPerShare": 2.9,
+      "dividendYield": 0.13,
+      "marketCap": 150000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.15,
+      "returnOnAssets": 0.06,
+      "currentRatio": 1.1,
+      "quickRatio": 0.9,
+      "bookValuePerShare": 33.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK015",
+    "parameters": {
+      "priceEarningsRatio": 55.8,
+      "earningsPerShare": 4.5,
+      "dividendYield": 0.0,
+      "marketCap": 240000000000.0,
+      "debtToEquityRatio": 2.5,
+      "returnreturnOnEquity": 0.23,
+      "returnOnAssets": 0.08,
+      "currentRatio": 1.4,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 13.1,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK016",
+    "parameters": {
+      "priceEarningsRatio": 12.5,
+      "earningsPerShare": 5.5,
+      "dividendYield": 1.38,
+      "marketCap": 200000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.31,
+      "returnOnAssets": 0.14,
+      "currentRatio": 2.2,
+      "quickRatio": 1.8,
+      "bookValuePerShare": 25.7,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK017",
+    "parameters": {
+      "priceEarningsRatio": 15.9,
+      "earningsPerShare": 3.7,
+      "dividendYield": 2.91,
+      "marketCap": 240000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.11,
+      "currentRatio": 1.5,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 19.3,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK018",
+    "parameters": {
+      "priceEarningsRatio": 19.4,
+      "earningsPerShare": 4.8,
+      "dividendYield": 1.55,
+      "marketCap": 230000000000.0,
+      "debtToEquityRatio": 0.7,
+      "returnreturnOnEquity": 0.31,
+      "returnOnAssets": 0.12,
+      "currentRatio": 3.5,
+      "quickRatio": 3.0,
+      "bookValuePerShare": 50.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK019",
+    "parameters": {
+      "priceEarningsRatio": 58.2,
+      "earningsPerShare": 5.2,
+      "dividendYield": 0.0,
+      "marketCap": 210000000000.0,
+      "debtToEquityRatio": 0.6,
+      "returnreturnOnEquity": 0.36,
+      "returnOnAssets": 0.13,
+      "currentRatio": 1.7,
+      "quickRatio": 1.5,
+      "bookValuePerShare": 18.6,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK020",
+    "parameters": {
+      "priceEarningsRatio": 45.0,
+      "earningsPerShare": 9.3,
+      "dividendYield": 0.0,
+      "marketCap": 280000000000.0,
+      "debtToEquityRatio": 0.4,
+      "returnreturnOnEquity": 0.31,
+      "returnOnAssets": 0.12,
+      "currentRatio": 5.2,
+      "quickRatio": 5.0,
+      "bookValuePerShare": 23.0,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK021",
+    "parameters": {
+      "priceEarningsRatio": 24.8,
+      "earningsPerShare": 13.5,
+      "dividendYield": 5.1,
+      "marketCap": 110000000000.0,
+      "debtToEquityRatio": 2.5,
+      "returnreturnOnEquity": 0.12,
+      "returnOnAssets": 0.05,
+      "currentRatio": 2.0,
+      "quickRatio": 1.6,
+      "bookValuePerShare": 33.4,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK022",
+    "parameters": {
+      "priceEarningsRatio": 30.7,
+      "earningsPerShare": 5.4,
+      "dividendYield": 1.61,
+      "marketCap": 590000000000.0,
+      "debtToEquityRatio": 0.6,
+      "returnreturnOnEquity": 0.18,
+      "returnOnAssets": 0.06,
+      "currentRatio": 0.9,
+      "quickRatio": 0.7,
+      "bookValuePerShare": 31.1,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK023",
+    "parameters": {
+      "priceEarningsRatio": 22.9,
+      "earningsPerShare": 14.3,
+      "dividendYield": 1.75,
+      "marketCap": 320000000000.0,
+      "debtToEquityRatio": 1.8,
+      "returnreturnOnEquity": 0.25,
+      "returnOnAssets": 0.12,
+      "currentRatio": 1.4,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 98.0,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK024",
+    "parameters": {
+      "priceEarningsRatio": 33.5,
+      "earningsPerShare": 10.2,
+      "dividendYield": 0.77,
+      "marketCap": 250000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.31,
+      "returnOnAssets": 0.13,
+      "currentRatio": 1.2,
+      "quickRatio": 1.0,
+      "bookValuePerShare": 36.0,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK025",
+    "parameters": {
+      "priceEarningsRatio": 31.4,
+      "earningsPerShare": 7.9,
+      "dividendYield": 2.28,
+      "marketCap": 210000000000.0,
+      "debtToEquityRatio": 1.3,
+      "returnreturnOnEquity": 0.27,
+      "returnOnAssets": 0.11,
+      "currentRatio": 1.7,
+      "quickRatio": 1.5,
+      "bookValuePerShare": 28.4,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK026",
+    "parameters": {
+      "priceEarningsRatio": 29.1,
+      "earningsPerShare": 5.6,
+      "dividendYield": 1.68,
+      "marketCap": 100000000000.0,
+      "debtToEquityRatio": 3.4,
+      "returnreturnOnEquity": 0.26,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.4,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 7.1,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK027",
+    "parameters": {
+      "priceEarningsRatio": 15.8,
+      "earningsPerShare": 6.5,
+      "dividendYield": 1.41,
+      "marketCap": 120000000000.0,
+      "debtToEquityRatio": 1.2,
+      "returnreturnOnEquity": 0.22,
+      "returnOnAssets": 0.08,
+      "currentRatio": 1.5,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 71.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK028",
+    "parameters": {
+      "priceEarningsRatio": 69.3,
+      "earningsPerShare": 3.1,
+      "dividendYield": 0.0,
+      "marketCap": 85000000000.0,
+      "debtToEquityRatio": 0.7,
+      "returnreturnOnEquity": 0.33,
+      "returnOnAssets": 0.15,
+      "currentRatio": 3.6,
+      "quickRatio": 3.4,
+      "bookValuePerShare": 19.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK029",
+    "parameters": {
+      "priceEarningsRatio": 58.1,
+      "earningsPerShare": 2.9,
+      "dividendYield": 0.0,
+      "marketCap": 91000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.09,
+      "currentRatio": 2.3,
+      "quickRatio": 2.0,
+      "bookValuePerShare": 11.4,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK030",
+    "parameters": {
+      "priceEarningsRatio": 83.4,
+      "earningsPerShare": 1.8,
+      "dividendYield": 0.0,
+      "marketCap": 53000000000.0,
+      "debtToEquityRatio": 0.3,
+      "returnreturnOnEquity": 0.21,
+      "returnOnAssets": 0.06,
+      "currentRatio": 4.5,
+      "quickRatio": 4.2,
+      "bookValuePerShare": 7.9,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK031",
+    "parameters": {
+      "priceEarningsRatio": 155.2,
+      "earningsPerShare": 0.6,
+      "dividendYield": 0.0,
+      "marketCap": 29000000000.0,
+      "debtToEquityRatio": 0.4,
+      "returnreturnOnEquity": 0.07,
+      "returnOnAssets": 0.02,
+      "currentRatio": 1.2,
+      "quickRatio": 1.0,
+      "bookValuePerShare": 5.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK032",
+    "parameters": {
+      "priceEarningsRatio": 44.7,
+      "earningsPerShare": 1.2,
+      "dividendYield": 0.0,
+      "marketCap": 80000000000.0,
+      "debtToEquityRatio": 2.2,
+      "returnreturnOnEquity": 0.05,
+      "returnOnAssets": 0.01,
+      "currentRatio": 0.9,
+      "quickRatio": 0.6,
+      "bookValuePerShare": 15.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK033",
+    "parameters": {
+      "priceEarningsRatio": 97.3,
+      "earningsPerShare": 0.9,
+      "dividendYield": 0.0,
+      "marketCap": 54000000000.0,
+      "debtToEquityRatio": 1.8,
+      "returnreturnOnEquity": 0.04,
+      "returnOnAssets": 0.01,
+      "currentRatio": 1.1,
+      "quickRatio": 0.8,
+      "bookValuePerShare": 9.1,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK034",
+    "parameters": {
+      "priceEarningsRatio": 123.5,
+      "earningsPerShare": 0.2,
+      "dividendYield": 0.0,
+      "marketCap": 14000000000.0,
+      "debtToEquityRatio": 0.2,
+      "returnreturnOnEquity": 0.02,
+      "returnOnAssets": 0.001,
+      "currentRatio": 3.2,
+      "quickRatio": 2.9,
+      "bookValuePerShare": 4.6,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK035",
+    "parameters": {
+      "priceEarningsRatio": 77.9,
+      "earningsPerShare": 1.5,
+      "dividendYield": 0.0,
+      "marketCap": 26000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.21,
+      "returnOnAssets": 0.06,
+      "currentRatio": 2.8,
+      "quickRatio": 2.5,
+      "bookValuePerShare": 7.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK036",
+    "parameters": {
+      "priceEarningsRatio": 241.7,
+      "earningsPerShare": 0.4,
+      "dividendYield": 0.0,
+      "marketCap": 9800000000.0,
+      "debtToEquityRatio": 0.1,
+      "returnreturnOnEquity": 0.03,
+      "returnOnAssets": 0.001,
+      "currentRatio": 4.1,
+      "quickRatio": 3.8,
+      "bookValuePerShare": 3.7,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK037",
+    "parameters": {
+      "priceEarningsRatio": 215.6,
+      "earningsPerShare": 0.3,
+      "dividendYield": 0.0,
+      "marketCap": 12000000000.0,
+      "debtToEquityRatio": 0.2,
+      "returnreturnOnEquity": 0.02,
+      "returnOnAssets": 0.0009,
+      "currentRatio": 2.5,
+      "quickRatio": 2.0,
+      "bookValuePerShare": 6.4,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK038",
+    "parameters": {
+      "priceEarningsRatio": 115.4,
+      "earningsPerShare": 1.1,
+      "dividendYield": 0.0,
+      "marketCap": 53000000000.0,
+      "debtToEquityRatio": 0.6,
+      "returnreturnOnEquity": 0.19,
+      "returnOnAssets": 0.05,
+      "currentRatio": 2.0,
+      "quickRatio": 1.8,
+      "bookValuePerShare": 8.9,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK039",
+    "parameters": {
+      "priceEarningsRatio": 22.9,
+      "earningsPerShare": 4.5,
+      "dividendYield": 0.64,
+      "marketCap": 38000000000.0,
+      "debtToEquityRatio": 0.3,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.09,
+      "currentRatio": 3.4,
+      "quickRatio": 3.0,
+      "bookValuePerShare": 12.4,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK040",
+    "parameters": {
+      "priceEarningsRatio": 19.5,
+      "earningsPerShare": 2.9,
+      "dividendYield": 0.0,
+      "marketCap": 220000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.14,
+      "returnOnAssets": 0.04,
+      "currentRatio": 1.3,
+      "quickRatio": 1.1,
+      "bookValuePerShare": 15.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK041",
+    "parameters": {
+      "priceEarningsRatio": 20.8,
+      "earningsPerShare": 4.2,
+      "dividendYield": 0.0,
+      "marketCap": 75000000000.0,
+      "debtToEquityRatio": 0.7,
+      "returnreturnOnEquity": 0.12,
+      "returnOnAssets": 0.03,
+      "currentRatio": 1.5,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 10.6,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK042",
+    "parameters": {
+      "priceEarningsRatio": 17.3,
+      "earningsPerShare": 5.2,
+      "dividendYield": 3.71,
+      "marketCap": 250000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.2,
+      "returnOnAssets": 0.07,
+      "currentRatio": 1.9,
+      "quickRatio": 1.7,
+      "bookValuePerShare": 17.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK043",
+    "parameters": {
+      "priceEarningsRatio": 27.1,
+      "earningsPerShare": 8.9,
+      "dividendYield": 3.16,
+      "marketCap": 220000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.33,
+      "returnOnAssets": 0.12,
+      "currentRatio": 1.8,
+      "quickRatio": 1.5,
+      "bookValuePerShare": 38.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK044",
+    "parameters": {
+      "priceEarningsRatio": 24.2,
+      "earningsPerShare": 6.1,
+      "dividendYield": 1.0,
+      "marketCap": 100000000000.0,
+      "debtToEquityRatio": 0.6,
+      "returnreturnOnEquity": 0.26,
+      "returnOnAssets": 0.09,
+      "currentRatio": 2.1,
+      "quickRatio": 1.9,
+      "bookValuePerShare": 45.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK045",
+    "parameters": {
+      "priceEarningsRatio": 19.6,
+      "earningsPerShare": 7.4,
+      "dividendYield": 1.04,
+      "marketCap": 57000000000.0,
+      "debtToEquityRatio": 1.1,
+      "returnreturnOnEquity": 0.33,
+      "returnOnAssets": 0.12,
+      "currentRatio": 2.5,
+      "quickRatio": 2.2,
+      "bookValuePerShare": 35.1,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK046",
+    "parameters": {
+      "priceEarningsRatio": 6.8,
+      "earningsPerShare": 1.9,
+      "dividendYield": 0.31,
+      "marketCap": 120000000000.0,
+      "debtToEquityRatio": 2.9,
+      "returnreturnOnEquity": 0.1,
+      "returnOnAssets": 0.02,
+      "currentRatio": 1.7,
+      "quickRatio": 1.4,
+      "bookValuePerShare": 8.4,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK047",
+    "parameters": {
+      "priceEarningsRatio": 18.0,
+      "earningsPerShare": 2.4,
+      "dividendYield": 0.45,
+      "marketCap": 62000000000.0,
+      "debtToEquityRatio": 1.6,
+      "returnreturnOnEquity": 0.14,
+      "returnOnAssets": 0.04,
+      "currentRatio": 1.2,
+      "quickRatio": 1.0,
+      "bookValuePerShare": 12.7,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK048",
+    "parameters": {
+      "priceEarningsRatio": 41.3,
+      "earningsPerShare": 7.2,
+      "dividendYield": 0.0,
+      "marketCap": 76000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.3,
+      "returnOnAssets": 0.11,
+      "currentRatio": 2.0,
+      "quickRatio": 1.7,
+      "bookValuePerShare": 22.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK049",
+    "parameters": {
+      "priceEarningsRatio": 28.5,
+      "earningsPerShare": 5.9,
+      "dividendYield": 2.2,
+      "marketCap": 91000000000.0,
+      "debtToEquityRatio": 1.3,
+      "returnreturnOnEquity": 0.27,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.9,
+      "quickRatio": 1.6,
+      "bookValuePerShare": 28.0,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK050",
+    "parameters": {
+      "priceEarningsRatio": 33.0,
+      "earningsPerShare": 4.8,
+      "dividendYield": 0.98,
+      "marketCap": 110000000000.0,
+      "debtToEquityRatio": 0.8,
+      "returnreturnOnEquity": 0.24,
+      "returnOnAssets": 0.09,
+      "currentRatio": 2.2,
+      "quickRatio": 1.9,
+      "bookValuePerShare": 18.6,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK051",
+    "parameters": {
+      "priceEarningsRatio": 48.6,
+      "earningsPerShare": 9.5,
+      "dividendYield": 0.0,
+      "marketCap": 85000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.33,
+      "returnOnAssets": 0.13,
+      "currentRatio": 1.6,
+      "quickRatio": 1.4,
+      "bookValuePerShare": 25.4,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK052",
+    "parameters": {
+      "priceEarningsRatio": 22.5,
+      "earningsPerShare": 4.1,
+      "dividendYield": 1.55,
+      "marketCap": 97000000000.0,
+      "debtToEquityRatio": 0.7,
+      "returnreturnOnEquity": 0.22,
+      "returnOnAssets": 0.08,
+      "currentRatio": 1.8,
+      "quickRatio": 1.5,
+      "bookValuePerShare": 19.3,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK053",
+    "parameters": {
+      "priceEarningsRatio": 12.9,
+      "earningsPerShare": 3.6,
+      "dividendYield": 2.85,
+      "marketCap": 125000000000.0,
+      "debtToEquityRatio": 0.4,
+      "returnreturnOnEquity": 0.32,
+      "returnOnAssets": 0.12,
+      "currentRatio": 2.9,
+      "quickRatio": 2.6,
+      "bookValuePerShare": 28.9,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK054",
+    "parameters": {
+      "priceEarningsRatio": 36.4,
+      "earningsPerShare": 6.8,
+      "dividendYield": 0.0,
+      "marketCap": 66000000000.0,
+      "debtToEquityRatio": 1.2,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.4,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 20.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK055",
+    "parameters": {
+      "priceEarningsRatio": 17.1,
+      "earningsPerShare": 5.9,
+      "dividendYield": 2.1,
+      "marketCap": 112000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.26,
+      "returnOnAssets": 0.09,
+      "currentRatio": 2.0,
+      "quickRatio": 1.8,
+      "bookValuePerShare": 21.7,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK056",
+    "parameters": {
+      "priceEarningsRatio": 59.3,
+      "earningsPerShare": 2.5,
+      "dividendYield": 0.0,
+      "marketCap": 54000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.24,
+      "returnOnAssets": 0.08,
+      "currentRatio": 1.5,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 14.6,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK057",
+    "parameters": {
+      "priceEarningsRatio": 14.8,
+      "earningsPerShare": 4.2,
+      "dividendYield": 3.3,
+      "marketCap": 143000000000.0,
+      "debtToEquityRatio": 0.6,
+      "returnreturnOnEquity": 0.3,
+      "returnOnAssets": 0.11,
+      "currentRatio": 2.5,
+      "quickRatio": 2.2,
+      "bookValuePerShare": 27.1,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK058",
+    "parameters": {
+      "priceEarningsRatio": 27.9,
+      "earningsPerShare": 5.4,
+      "dividendYield": 1.8,
+      "marketCap": 86000000000.0,
+      "debtToEquityRatio": 1.1,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.9,
+      "quickRatio": 1.6,
+      "bookValuePerShare": 23.3,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK059",
+    "parameters": {
+      "priceEarningsRatio": 32.7,
+      "earningsPerShare": 7.2,
+      "dividendYield": 0.0,
+      "marketCap": 72000000000.0,
+      "debtToEquityRatio": 0.8,
+      "returnreturnOnEquity": 0.31,
+      "returnOnAssets": 0.12,
+      "currentRatio": 2.1,
+      "quickRatio": 1.9,
+      "bookValuePerShare": 19.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK060",
+    "parameters": {
+      "priceEarningsRatio": 9.9,
+      "earningsPerShare": 3.0,
+      "dividendYield": 2.6,
+      "marketCap": 132000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.35,
+      "returnOnAssets": 0.13,
+      "currentRatio": 3.0,
+      "quickRatio": 2.7,
+      "bookValuePerShare": 31.4,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK061",
+    "parameters": {
+      "priceEarningsRatio": 21.4,
+      "earningsPerShare": 4.9,
+      "dividendYield": 1.1,
+      "marketCap": 98000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.24,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.7,
+      "quickRatio": 1.5,
+      "bookValuePerShare": 22.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK062",
+    "parameters": {
+      "priceEarningsRatio": 38.5,
+      "earningsPerShare": 8.1,
+      "dividendYield": 0.0,
+      "marketCap": 66000000000.0,
+      "debtToEquityRatio": 1.3,
+      "returnreturnOnEquity": 0.29,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.4,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 24.6,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK063",
+    "parameters": {
+      "priceEarningsRatio": 13.7,
+      "earningsPerShare": 2.8,
+      "dividendYield": 3.0,
+      "marketCap": 124000000000.0,
+      "debtToEquityRatio": 0.6,
+      "returnreturnOnEquity": 0.31,
+      "returnOnAssets": 0.11,
+      "currentRatio": 2.3,
+      "quickRatio": 2.0,
+      "bookValuePerShare": 26.1,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK064",
+    "parameters": {
+      "priceEarningsRatio": 51.2,
+      "earningsPerShare": 5.5,
+      "dividendYield": 0.0,
+      "marketCap": 56000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.26,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.6,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 15.9,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK065",
+    "parameters": {
+      "priceEarningsRatio": 18.9,
+      "earningsPerShare": 4.0,
+      "dividendYield": 2.15,
+      "marketCap": 108000000000.0,
+      "debtToEquityRatio": 0.8,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.1,
+      "currentRatio": 2.0,
+      "quickRatio": 1.7,
+      "bookValuePerShare": 20.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK066",
+    "parameters": {
+      "priceEarningsRatio": 63.7,
+      "earningsPerShare": 2.2,
+      "dividendYield": 0.0,
+      "marketCap": 47000000000.0,
+      "debtToEquityRatio": 1.2,
+      "returnreturnOnEquity": 0.22,
+      "returnOnAssets": 0.07,
+      "currentRatio": 1.5,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 13.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK067",
+    "parameters": {
+      "priceEarningsRatio": 26.3,
+      "earningsPerShare": 5.1,
+      "dividendYield": 1.5,
+      "marketCap": 90000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.27,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.8,
+      "quickRatio": 1.5,
+      "bookValuePerShare": 22.0,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK068",
+    "parameters": {
+      "priceEarningsRatio": 40.2,
+      "earningsPerShare": 7.9,
+      "dividendYield": 0.0,
+      "marketCap": 72000000000.0,
+      "debtToEquityRatio": 1.1,
+      "returnreturnOnEquity": 0.3,
+      "returnOnAssets": 0.11,
+      "currentRatio": 1.6,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 25.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK069",
+    "parameters": {
+      "priceEarningsRatio": 12.4,
+      "earningsPerShare": 3.3,
+      "dividendYield": 2.9,
+      "marketCap": 115000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.33,
+      "returnOnAssets": 0.12,
+      "currentRatio": 2.7,
+      "quickRatio": 2.4,
+      "bookValuePerShare": 29.6,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK070",
+    "parameters": {
+      "priceEarningsRatio": 45.9,
+      "earningsPerShare": 6.7,
+      "dividendYield": 0.0,
+      "marketCap": 63000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.4,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 23.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK071",
+    "parameters": {
+      "priceEarningsRatio": 22.1,
+      "earningsPerShare": 4.7,
+      "dividendYield": 1.2,
+      "marketCap": 97000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.25,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.9,
+      "quickRatio": 1.6,
+      "bookValuePerShare": 21.1,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK072",
+    "parameters": {
+      "priceEarningsRatio": 31.8,
+      "earningsPerShare": 5.8,
+      "dividendYield": 0.0,
+      "marketCap": 68000000000.0,
+      "debtToEquityRatio": 1.2,
+      "returnreturnOnEquity": 0.29,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.5,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 20.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK073",
+    "parameters": {
+      "priceEarningsRatio": 16.5,
+      "earningsPerShare": 4.3,
+      "dividendYield": 2.5,
+      "marketCap": 122000000000.0,
+      "debtToEquityRatio": 0.7,
+      "returnreturnOnEquity": 0.31,
+      "returnOnAssets": 0.11,
+      "currentRatio": 2.4,
+      "quickRatio": 2.1,
+      "bookValuePerShare": 27.3,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK074",
+    "parameters": {
+      "priceEarningsRatio": 53.4,
+      "earningsPerShare": 6.2,
+      "dividendYield": 0.0,
+      "marketCap": 56000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.27,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.6,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 16.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK075",
+    "parameters": {
+      "priceEarningsRatio": 20.0,
+      "earningsPerShare": 5.0,
+      "dividendYield": 1.35,
+      "marketCap": 105000000000.0,
+      "debtToEquityRatio": 0.8,
+      "returnreturnOnEquity": 0.26,
+      "returnOnAssets": 0.09,
+      "currentRatio": 2.0,
+      "quickRatio": 1.7,
+      "bookValuePerShare": 22.7,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK076",
+    "parameters": {
+      "priceEarningsRatio": 41.9,
+      "earningsPerShare": 7.5,
+      "dividendYield": 0.0,
+      "marketCap": 69000000000.0,
+      "debtToEquityRatio": 1.1,
+      "returnreturnOnEquity": 0.3,
+      "returnOnAssets": 0.11,
+      "currentRatio": 1.5,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 24.0,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK077",
+    "parameters": {
+      "priceEarningsRatio": 13.2,
+      "earningsPerShare": 3.1,
+      "dividendYield": 2.95,
+      "marketCap": 124000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.34,
+      "returnOnAssets": 0.12,
+      "currentRatio": 2.8,
+      "quickRatio": 2.5,
+      "bookValuePerShare": 30.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK078",
+    "parameters": {
+      "priceEarningsRatio": 48.1,
+      "earningsPerShare": 6.9,
+      "dividendYield": 0.0,
+      "marketCap": 62000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.4,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 23.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK079",
+    "parameters": {
+      "priceEarningsRatio": 23.5,
+      "earningsPerShare": 4.9,
+      "dividendYield": 1.05,
+      "marketCap": 99000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.25,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.8,
+      "quickRatio": 1.5,
+      "bookValuePerShare": 21.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK080",
+    "parameters": {
+      "priceEarningsRatio": 35.6,
+      "earningsPerShare": 7.2,
+      "dividendYield": 0.0,
+      "marketCap": 73000000000.0,
+      "debtToEquityRatio": 1.2,
+      "returnreturnOnEquity": 0.29,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.5,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 24.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK081",
+    "parameters": {
+      "priceEarningsRatio": 15.0,
+      "earningsPerShare": 4.2,
+      "dividendYield": 2.7,
+      "marketCap": 113000000000.0,
+      "debtToEquityRatio": 0.6,
+      "returnreturnOnEquity": 0.31,
+      "returnOnAssets": 0.11,
+      "currentRatio": 2.5,
+      "quickRatio": 2.2,
+      "bookValuePerShare": 28.9,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK082",
+    "parameters": {
+      "priceEarningsRatio": 55.2,
+      "earningsPerShare": 6.5,
+      "dividendYield": 0.0,
+      "marketCap": 58000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.27,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.6,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 16.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK083",
+    "parameters": {
+      "priceEarningsRatio": 29.9,
+      "earningsPerShare": 5.3,
+      "dividendYield": 1.3,
+      "marketCap": 88000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.27,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.9,
+      "quickRatio": 1.6,
+      "bookValuePerShare": 22.4,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK084",
+    "parameters": {
+      "priceEarningsRatio": 18.7,
+      "earningsPerShare": 3.9,
+      "dividendYield": 2.2,
+      "marketCap": 108000000000.0,
+      "debtToEquityRatio": 0.8,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.1,
+      "currentRatio": 2.0,
+      "quickRatio": 1.7,
+      "bookValuePerShare": 20.6,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK085",
+    "parameters": {
+      "priceEarningsRatio": 42.5,
+      "earningsPerShare": 7.8,
+      "dividendYield": 0.0,
+      "marketCap": 71000000000.0,
+      "debtToEquityRatio": 1.1,
+      "returnreturnOnEquity": 0.3,
+      "returnOnAssets": 0.11,
+      "currentRatio": 1.5,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 24.9,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK086",
+    "parameters": {
+      "priceEarningsRatio": 12.8,
+      "earningsPerShare": 3.5,
+      "dividendYield": 2.85,
+      "marketCap": 124000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnreturnOnEquity": 0.33,
+      "returnOnAssets": 0.12,
+      "currentRatio": 2.7,
+      "quickRatio": 2.4,
+      "bookValuePerShare": 30.0,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK087",
+    "parameters": {
+      "priceEarningsRatio": 47.9,
+      "earningsPerShare": 6.8,
+      "dividendYield": 0.0,
+      "marketCap": 63000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.4,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 23.7,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK088",
+    "parameters": {
+      "priceEarningsRatio": 24.3,
+      "earningsPerShare": 5.0,
+      "dividendYield": 1.1,
+      "marketCap": 100000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.25,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.8,
+      "quickRatio": 1.5,
+      "bookValuePerShare": 21.9,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK089",
+    "parameters": {
+      "priceEarningsRatio": 36.8,
+      "earningsPerShare": 7.1,
+      "dividendYield": 0.0,
+      "marketCap": 75000000000.0,
+      "debtToEquityRatio": 1.2,
+      "returnreturnOnEquity": 0.29,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.5,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 24.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK090",
+    "parameters": {
+      "priceEarningsRatio": 14.7,
+      "earningsPerShare": 3.8,
+      "dividendYield": 2.9,
+      "marketCap": 119000000000.0,
+      "debtToEquityRatio": 0.6,
+      "returnreturnOnEquity": 0.32,
+      "returnOnAssets": 0.11,
+      "currentRatio": 2.6,
+      "quickRatio": 2.3,
+      "bookValuePerShare": 28.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK091",
+    "parameters": {
+      "priceEarningsRatio": 53.6,
+      "earningsPerShare": 6.3,
+      "dividendYield": 0.0,
+      "marketCap": 59000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.27,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.6,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 16.5,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK092",
+    "parameters": {
+      "priceEarningsRatio": 30.2,
+      "earningsPerShare": 5.6,
+      "dividendYield": 0.0,
+      "marketCap": 87000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.27,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.9,
+      "quickRatio": 1.6,
+      "bookValuePerShare": 22.0,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK093",
+    "parameters": {
+      "priceEarningsRatio": 17.9,
+      "earningsPerShare": 4.4,
+      "dividendYield": 2.4,
+      "marketCap": 112000000000.0,
+      "debtToEquityRatio": 0.8,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.1,
+      "currentRatio": 2.1,
+      "quickRatio": 1.8,
+      "bookValuePerShare": 21.0,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK094",
+    "parameters": {
+      "priceEarningsRatio": 46.3,
+      "earningsPerShare": 6.9,
+      "dividendYield": 0.0,
+      "marketCap": 64000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.4,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 23.9,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK095",
+    "parameters": {
+      "priceEarningsRatio": 21.3,
+      "earningsPerShare": 4.8,
+      "dividendYield": 1.25,
+      "marketCap": 103000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.25,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.8,
+      "quickRatio": 1.5,
+      "bookValuePerShare": 22.3,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK096",
+    "parameters": {
+      "priceEarningsRatio": 39.7,
+      "earningsPerShare": 7.4,
+      "dividendYield": 0.0,
+      "marketCap": 72000000000.0,
+      "debtToEquityRatio": 1.1,
+      "returnreturnOnEquity": 0.3,
+      "returnOnAssets": 0.11,
+      "currentRatio": 1.5,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 24.3,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK097",
+    "parameters": {
+      "priceEarningsRatio": 13.5,
+      "earningsPerShare": 3.2,
+      "dividendYield": 2.8,
+      "marketCap": 122000000000.0,
+      "debtToEquityRatio": 0.5,
+      "returnOnEquity": 0.34,
+      "returnOnAssets": 0.12,
+      "currentRatio": 2.9,
+      "quickRatio": 2.6,
+      "bookValuePerShare": 30.7
+    }
+  },
+  {
+    "stockSymbol": "STK098",
+    "parameters": {
+      "priceEarningsRatio": 49.5,
+      "earningsPerShare": 6.7,
+      "dividendYield": 0.0,
+      "marketCap": 62000000000.0,
+      "debtToEquityRatio": 1.0,
+      "returnreturnOnEquity": 0.28,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.4,
+      "quickRatio": 1.2,
+      "bookValuePerShare": 23.2,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK099",
+    "parameters": {
+      "priceEarningsRatio": 25.8,
+      "earningsPerShare": 5.2,
+      "dividendYield": 1.15,
+      "marketCap": 97000000000.0,
+      "debtToEquityRatio": 0.9,
+      "returnreturnOnEquity": 0.25,
+      "returnOnAssets": 0.09,
+      "currentRatio": 1.9,
+      "quickRatio": 1.6,
+      "bookValuePerShare": 21.8,
+      "returnOnEquity": 0.12
+    }
+  },
+  {
+    "stockSymbol": "STK100",
+    "parameters": {
+      "priceEarningsRatio": 37.4,
+      "earningsPerShare": 7.0,
+      "dividendYield": 0.0,
+      "marketCap": 74000000000.0,
+      "debtToEquityRatio": 1.2,
+      "returnreturnOnEquity": 0.29,
+      "returnOnAssets": 0.1,
+      "currentRatio": 1.5,
+      "quickRatio": 1.3,
+      "bookValuePerShare": 24.6,
+      "returnOnEquity": 0.12
+    }
+  }
+]
