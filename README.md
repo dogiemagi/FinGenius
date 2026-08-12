@@ -111,4 +111,4 @@ This workflow reflects industry-standard ML practices.
 * LLM-based natural language financial queries
 * Cloud deployment
 
-
+Live link: https://nextgenmarketanalyzer.onrender.com/
