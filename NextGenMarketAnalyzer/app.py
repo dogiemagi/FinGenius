@@ -28,6 +28,9 @@ st.html("""
 .block-container { padding-top: 1.2rem; padding-bottom: 2rem; }
 section[data-testid="stSidebar"] { width: 0 !important; min-width: 0 !important; }
 h1, h2, h3 { letter-spacing: .2px; }
+.app-header { display: flex; align-items: center; gap: 0.8rem; margin-bottom: 0.75rem; }
+.app-header-icon { font-size: 2.2rem; line-height: 1; }
+.app-header-title { margin: 0; font-size: clamp(2rem, 4vw, 3rem); line-height: 1.1; }
 [data-testid="stDataFrame"] div[data-testid="stHorizontalBlock"] { gap: .25rem !important; }
 .stPlotlyChart, .element-container { margin-top: .2rem; margin-bottom: .2rem; }
 ul { margin-top: 0.25rem; }
@@ -35,11 +38,11 @@ ul { margin-top: 0.25rem; }
 """)
 
 # Layout Header
-col_logo, col_title = st.columns([0.08, 0.92])
-with col_logo:
-    st.markdown("### 📊")
-with col_title:
-    st.markdown("# NextGen Market Analyzer")
+st.markdown(
+    '<div class="app-header"><span class="app-header-icon">📊</span>'
+    '<h1 class="app-header-title">NextGen Market Analyzer</h1></div>',
+    unsafe_allow_html=True,
+)
 
 tab_port, tab_stock = st.tabs(["Portfolio Analyzer", "Stock Evaluator"])
 
