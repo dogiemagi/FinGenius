@@ -74,14 +74,25 @@ FinGenius/
 3. **Install dependencies**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r NextGenMarketAnalyzer/requirements.txt
    ```
 
 4. **Run the project**
 
    ```bash
-   python main.py
+   streamlit run NextGenMarketAnalyzer/app.py
    ```
+
+Set `GEMINI_API_KEY` in the environment before running the app. The portfolio
+advisor uses this key for its Gemini-compatible OpenAI API calls.
+
+## Deploy on Render
+
+This repository includes a `render.yaml` Blueprint for the Streamlit app.
+Create a new Render Blueprint from the repository and set the required
+`GEMINI_API_KEY` environment variable when prompted. The Blueprint installs
+dependencies from `NextGenMarketAnalyzer/requirements.txt`, binds Streamlit
+to Render's `$PORT`, and uses Streamlit's health endpoint for service checks.
 
 ## Machine Learning Workflow
 
