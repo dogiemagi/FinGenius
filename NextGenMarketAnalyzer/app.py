@@ -23,7 +23,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-st.markdown("""
+st.html("""
 <style>
 .block-container { padding-top: 1.2rem; padding-bottom: 2rem; }
 section[data-testid="stSidebar"] { width: 0 !important; min-width: 0 !important; }
@@ -32,7 +32,7 @@ h1, h2, h3 { letter-spacing: .2px; }
 .stPlotlyChart, .element-container { margin-top: .2rem; margin-bottom: .2rem; }
 ul { margin-top: 0.25rem; }
 </style>
-""", unsafe_allow_html=True)
+""")
 
 # Layout Header
 col_logo, col_title = st.columns([0.08, 0.92])
